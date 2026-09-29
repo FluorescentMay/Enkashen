@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
+    "enka-network-api": "^5.1.2",
     "enkanetwork": "^3.0.0-beta5",
     "express": "^5.2.1"
   }
