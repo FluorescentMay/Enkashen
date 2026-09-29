@@ -20,7 +20,7 @@ function PlayerData() {
           {/* <img src={user.profilePic} />*/}
           <img id="banner" src={user.nameCard} />
           <img id="pfp" src="https://enka.network/ui/UI_AvatarIcon_Flins.png" />
-          <h2> erm ... </h2>
+          <h2> everything is hardcoded </h2>
           <h2>{user.nickname}</h2>
           <p>{user.signature}</p>
           <p>{user.level}</p>
